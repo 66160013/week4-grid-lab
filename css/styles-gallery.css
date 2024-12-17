@@ -49,6 +49,7 @@
     object-fit: cover;
     display: block;
    }
+   
    /* สําหรับแท็บเล็ต */
     @media (max-width: 768px) {
     .gallery {
